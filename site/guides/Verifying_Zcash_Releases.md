@@ -444,7 +444,7 @@ Verification works differently once you leave direct downloads.
 
 **Standalone Android APKs.** These *can* be verified. ZODL publishes GPG-signed standalone Android binaries via GitHub Releases, so the Part 2 workflow applies. Prefer this path if you want a checkable chain.
 
-**Hardware wallets.** The device attests to its own firmware, so the trust anchor is the hardware, not a file on your machine. See [Keystone Zashi](/guides/keystone-zashi) for the device-verification flow. Buy direct from the manufacturer — supply-chain tampering happens between factory and buyer.
+**Hardware wallets.** The device attests to its own firmware, so the trust anchor is the hardware, not a file on your machine. See [Keystone Zodl](/guides/keystone-zashi) for the device-verification flow. Buy direct from the manufacturer — supply-chain tampering happens between factory and buyer.
 
 ---
 

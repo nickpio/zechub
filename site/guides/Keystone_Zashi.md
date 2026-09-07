@@ -1,16 +1,20 @@
-# Keystone Zashi User Guide
+# Keystone Zodl User Guide
 
-Twitter Guide:  => [Zashi x Keystone Hardware Wallet Integration Twitter Guide](https://x.com/zashi_app/status/1869793574880973144) 
+Zodl was formerly called Zashi. Older videos and posts still use that name.
 
-This integration marks a significant evolution in Zcash usability by enabling cold storage of shielded ZEC. The Zcash community has faced setbacks with other hardware wallet platforms in the past, but Keystone emerged as a collaborative partner willing to push boundaries and innovate alongside the Electric Coin Company. The Keystone team received a ZCG grant to fuel their side of the work.
+Official guide: [Connecting a Keystone wallet (Zodl Support)](https://support.zodl.com/article/33-connecting-a-keystone-wallet)
 
-## Keystone X Zashi Tutorial
+Historical thread: [Zashi x Keystone Hardware Wallet Integration](https://x.com/zashi_app/status/1869793574880973144)
+
+This integration marks a significant evolution in Zcash usability by enabling cold storage of shielded ZEC. The Zcash community has faced setbacks with other hardware wallet platforms in the past, but Keystone emerged as a collaborative partner willing to push boundaries and innovate alongside ZODL. The Keystone team received a ZCG grant to fuel their side of the work.
+
+## Keystone X Zodl Tutorial
 
 <div className="my-8 w-full aspect-video max-w-3xl mx-auto rounded-2xl overflow-hidden shadow-lg bg-black">
   <iframe
     className="w-full h-full"
     src="https://www.youtube.com/embed/ktYf7josJKM"
-    title="Keystone X Zashi Tutorial"
+    title="Keystone X Zodl Tutorial (recorded as Zashi)"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowFullScreen
     loading="lazy"
@@ -30,7 +34,7 @@ USB Cable or SD Card:
 
 Access to Keystones official website for Verification and Firmware Update.
 
-Zashi app setup on your mobile device.
+Zodl app setup on your mobile device.
 
 ## [Step by Step Guide(Keystone Device)](https://keyst.one/get-started) 
 
@@ -63,15 +67,15 @@ Zashi app setup on your mobile device.
     - Your device will generate a 24 word seed phrase.
     - Write down this seed phrase and store it securely.
     - Confirm the seed phrase by verifying the words in the correct order as displayed on the screen.
-- **Connect Zashi + Keystone Wallet:**
+- **Connect Zodl + Keystone Wallet:**
     - On the Keystone device: Tap … on the main page
-    - Tap Connect Software Wallet and choose Zashi. The QR code for connection to Zashi will appear.
-    - In Zashi App: Tap zashi dropdown (top left of screen)
+    - Tap Connect Software Wallet and choose Zodl. The QR code for connection to Zodl will appear.
+    - In Zodl: Tap the logo (top left of screen)
     - Tap Connect Hardware Wallet
     - Tap Ready to Scan
-    - Scan the QR displayed on Keystone Device
-    - In Zashi App: Confirm Keystone Wallet Account by tapping displayed account
-    - Tap Connect on bottom of screen
+    - Scan the QR sequence displayed on the Keystone device
+    - In Zodl: Confirm the Keystone wallet account by tapping the displayed account
+    - Tap Unlock
 
 
 ## Extra Help
@@ -80,7 +84,7 @@ Zashi app setup on your mobile device.
   <iframe
     className="w-full h-full"
     src="https://www.youtube.com/embed/Jr6LqtD1W0s"
-    title="Connect Keystone Hardware Wallet to Zashi"
+    title="Connect Keystone Hardware Wallet to Zodl (recorded as Zashi)"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowFullScreen
     loading="lazy"
@@ -98,7 +102,3 @@ Zashi app setup on your mobile device.
     loading="lazy"
   />
 </div>
-
-
-
-
