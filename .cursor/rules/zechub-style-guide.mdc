@@ -1,0 +1,32 @@
+---
+description: Apply the ZecHub style guide to wiki pages, docs, newsletters, and social copy
+alwaysApply: true
+---
+
+# ZecHub style guide
+
+Follow this guide when writing or editing user-facing content in this repository (wiki pages, docs, newsletters, translations, and social copy).
+
+Canonical source: [site/contribute/Style_Guide.md](../../site/contribute/Style_Guide.md)
+Published: https://zechub.wiki/contribute/style-guide
+
+ZecHub style is simple and approachable. We welcome everyone and focus on the Zcash community.
+
+## Principles
+
+1. **Ready to assist** — Show Zcash users that we are on their side.
+2. **Brief and to the point** — Deliver the simplest message possible. Begin with the most important point.
+3. **User-centered** — Write for users first, developers second, and everyone else third.
+
+## Basics
+
+- **Get to the point.** Start with the most important point. Front-load keywords for skimming. Make the user's options and next steps clear.
+- **Write like you speak.** Talk to users in writing.
+- **Be brief.** Give enough information to solve a problem or make a choice.
+- **Skip periods in titles.** No end punctuation on titles, headings, subheads, UI titles, or list items with three or fewer words.
+- **When in doubt, avoid capitalization.** Capitalize proper nouns or names like Zcash, plus the first word of a heading or phrase.
+- **Rewrite weak writing.** Begin statements with a verb. Revise *you can* and *there were*.
+- **Don't be spacey.** Use only one space after periods and colons.
+- **Avoid non-English words** such as *de facto* or *ad hoc*. Write *for example* instead of *e.g.* and *that is* instead of *i.e.*
+
+This also applies to tweets and other short statements: keep them brief, front-load the point, and skip end punctuation on short lines.
