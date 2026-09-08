@@ -4,7 +4,7 @@ Zodl was formerly called Zashi. Older videos and posts still use that name.
 
 Official guide: [Connecting a Keystone wallet (Zodl Support)](https://support.zodl.com/article/33-connecting-a-keystone-wallet)
 
-Historical thread: [Zashi x Keystone Hardware Wallet Integration](https://x.com/zashi_app/status/1869793574880973144)
+Twitter Guide: [Zodl x Keystone Hardware Wallet Integration Twitter Guide](https://x.com/zodl_app/status/1869793574880973144)
 
 This integration marks a significant evolution in Zcash usability by enabling cold storage of shielded ZEC. The Zcash community has faced setbacks with other hardware wallet platforms in the past, but Keystone emerged as a collaborative partner willing to push boundaries and innovate alongside ZODL. The Keystone team received a ZCG grant to fuel their side of the work.
 
